@@ -1,5 +1,5 @@
 <div align="center">
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -96,14 +96,7 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/shivam779823" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+
 
 ----
 
