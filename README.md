@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>   -->
   
 
 ### <div align="center">Hey! Welcome to my profile I'm Shivam, A passionate Devops Engineer from India🚀</div>  
