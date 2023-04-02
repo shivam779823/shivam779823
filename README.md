@@ -5,12 +5,10 @@
   
 
 ### <div align="center">Hey! Welcome to my profile I'm Shivam, A passionate Devops Engineer from India🚀</div>  
+   
   
 
-- 🔭 I’m currently working on Google cloud platform project   
-  
-
-- 🌱 I’m currently learning Devops and Kubernetes  
+- 🌱 I’m currently learning tools for Devops   
   
 
 - ❓ Ask me about anything related to Devops and cloud related technologies  
