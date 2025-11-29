@@ -32,11 +32,11 @@
 <br/>
 
 ## 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shivam779823&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="shivam779823" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam779823&layout=compact&theme=radical&hide_border=true" alt="top languages" />
-</p>
+</p> -->
 
 <br/>
 ## 📊 Continuous Integration & Stats
@@ -45,9 +45,9 @@
 <img src="https://streak-stats.demolab.com?user=shivam779823&theme=radical&hide_border=true" alt="GitHub Streak" />
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivam779823&show_icons=true&count_private=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam779823&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-<br/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shivam779823&show_icons=true&count_private=true&theme=radical&hide_border=true" height="150" alt="stats graph" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam779823&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+<br/> -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivam779823&theme=radical&utcOffset=5.5" alt="productive time" />
 
