@@ -39,7 +39,22 @@
 </p>
 
 <br/>
+## 📊 Continuous Integration & Stats
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=shivam779823&theme=radical&hide_border=true" alt="GitHub Streak" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shivam779823&show_icons=true&count_private=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam779823&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivam779823&theme=radical&utcOffset=5.5" alt="productive time" />
+
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=shivam779823&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophies" />
+
+</div>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shivam779823&&style=flat-square" alt="views" />
 </p>
